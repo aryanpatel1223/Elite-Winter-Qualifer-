@@ -23,3 +23,9 @@ You don't need to install this, it's a simple website that you just go and start
 
 You just click chat and then the bot asks a question then you carry on with it
 
+## Test Plan
+
+To test the project:
+
+1.  Run the test
+2.  Check the results
